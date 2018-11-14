@@ -1,5 +1,4 @@
 # Vibe: Interactive-Diary-Entries
-<img src="https://user-images.githubusercontent.com/25557896/46908646-c1499580-cef3-11e8-93c7-9a2243e19933.png"/>
   
 Created for AT&T Entertainment Hackathon at Berkley College of Music.  
 This project is meant to help users write diary entries through an interactive display.
