@@ -1,6 +1,6 @@
 # Vibe: Interactive-Diary-Entries
   
-#October 5, 2018  
+# October 5, 2018  
 Created for AT&T Entertainment Hackathon at Berkley College of Music.  
 This project is meant to help users write diary entries through an interactive display.
 ## Table of Contents  :smile::smile::smile:
