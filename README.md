@@ -19,8 +19,9 @@ Lets users store diary entries with emojis and search those entries for emojis. 
 ## Next Steps  
 Our project is missing an appealing frontend due to our lack of time during the Hackathon.
 ## Credits for Code
-- **Nina Gharachorloo**  
-  Cornell University   
+- **Nina G**  
+    
+  
   Computer Science Major  
 
 - **Timothy Shee**:  High School
